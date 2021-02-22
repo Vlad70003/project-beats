@@ -1,0 +1,18 @@
+//screen
+$tablets: 768px;
+$phones: 480px;
+
+//FontSize
+$baseFontSize: 16px;
+
+
+// colors
+$black: #292929;
+$red: #E01F3D;
+$grey: #999999;
+
+@import "./media";
+@import "./styles/blocks/*.scss";
+
+
+
